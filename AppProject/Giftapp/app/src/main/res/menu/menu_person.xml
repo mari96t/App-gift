@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.cloudstechnologies.android.giftapp.MainActivity">
+    <item
+        android:id="@+id/modify_person"
+        android:title="Изменить персону"
+        app:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_delete"/>
+    <item
+        android:id="@+id/delete_person"
+        android:title="Удалить персону"
+        app:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_delete"/>
+</menu>

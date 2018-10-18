@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f9a825</color>
+    <color name="colorPrimaryDark">#f57f17</color>
+    <color name="colorAccent">#00c853</color>
+    
+    <color name="tv_default">#727272</color>
+    <color name="v_default">#bbbbbb</color>
+    
+    <color name="colorAccentTransparent">#4000c853</color>
+    <color name="colorBlackTransparent">#20000000</color>
+    
+    <color name="tv_listitems">#424242</color>
+</resources>
